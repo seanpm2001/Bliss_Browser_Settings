@@ -1,0 +1,44 @@
+News page (home)
+
+- [ ] Enable the news page
+- [ ] Show all news sources
+- [ ] Hide political news (if you are sensitive to this/it is late at night)
+- [ ] Hide political news in the morning {Set time range}
+- [ ] Hide political news in the afternoon {Set time range}
+- [ ] Hide political news in the evening {Set time range}
+- [ ] Hide political news in the night {Set time range}
+- [ ] Hide drama (if you are sensitive to this/it is late at night)
+- [ ] Hide drama news in the morning {Set time range}
+- [ ] Hide drama news in the afternoon {Set time range}
+- [ ] Hide drama news in the evening {Set time range}
+- [ ] Hide drama news in the night {Set time range}
+- [ ] Hide culinary news (if you are sensitive to this/it is late at night)
+- [ ] Hide culinary news in the morning {Set time range}
+- [ ] Hide culinary news in the afternoon {Set time range}
+- [ ] Hide culinary news in the evening {Set time range}
+- [ ] Hide culinary news in the night {Set time range}
+- [ ] Hide finance news (if you are sensitive to this/it is late at night)
+- [ ] Hide finance news in the morning {Set time range}
+- [ ] Hide finance news in the afternoon {Set time range}
+- [ ] Hide finance news in the evening {Set time range}
+- [ ] Hide finance news in the night {Set time range}
+- [ ] Hide war news (if you are sensitive to this/it is late at night)
+- [ ] Hide war news in the morning {Set time range}
+- [ ] Hide war news in the afternoon {Set time range}
+- [ ] Hide war news in the evening {Set time range}
+- [ ] Hide war news in the night {Set time range}
+- [ ] Hide sociology news (if you are sensitive to this/it is late at night)
+- [ ] Hide sociology news in the morning {Set time range}
+- [ ] Hide sociology news in the afternoon {Set time range}
+- [ ] Hide sociology news in the evening {Set time range}
+- [ ] Hide sociology news in the night {Set time range}
+- [ ] Hide psychology news (if you are sensitive to this/it is late at night)
+- [ ] Hide psychology news in the morning {Set time range}
+- [ ] Hide psychology news in the afternoon {Set time range}
+- [ ] Hide psychology news in the evening {Set time range}
+- [ ] Hide psychology news in the night {Set time range}
+- [ ] Hide science news (if you are sensitive to this/it is late at night)
+- [ ] Hide science news in the morning {Set time range}
+- [ ] Hide science news in the afternoon {Set time range}
+- [ ] Hide science news in the evening {Set time range}
+- [ ] Hide science news in the night {Set time range}
