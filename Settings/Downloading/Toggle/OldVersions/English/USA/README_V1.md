@@ -1,0 +1,3 @@
+Download toggle
+
+- [ ] Allow downloads
