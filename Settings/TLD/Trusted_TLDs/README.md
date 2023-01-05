@@ -1,0 +1,23 @@
+Trusted TlDs (search settings)
+
+- [ ] Override search engine for these settings (required for these settings to have effect)
+- [ ] Trust .com
+- [ ] Trust .org
+- [ ] Trust .net
+- [ ] Trust .gov
+- [ ] Trust .edu
+- [ ] Trust .ua
+- [ ] Trust .uk
+- [ ] Trust .no
+- [ ] Trust .de
+- [ ] Trust .eu
+- [ ] Trust .ru
+- [ ] Trust .ro
+- [ ] Trust .nl
+- [ ] Trust .sv
+- [ ] Trust .ar
+- [ ] Trust .en
+- [ ] Trust .ja
+- [ ] Trust .ko
+- [ ] Trust .es
+- [ ] Trust .eo
