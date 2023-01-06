@@ -1,0 +1,14 @@
+H
+- [ ] Show .htm thumbnails
+- [ ] Show .html thumbnails
+- [ ] Show .hta thumbnails
+- [ ] Show .hs thumbnails
+- [ ] Show .http thumbnails
+- [ ] Show .haml thumbnails
+- [ ] Show .hh thumbnails
+- [ ] Show .hack thumbnails
+- [ ] Show .hck thumbnails
+- [ ] Show .h thumbnails
+- [ ] Show .hpp thumbnails
+- [ ] Show .hxx thumbnails
+- [ ] Show .h++ thumbnails
