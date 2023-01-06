@@ -1,0 +1,23 @@
+Bliss file manager image thumbnail settings
+
+- [ ] Show AVCI thumbnails
+- [ ] Show AVCS thumbnails
+- [ ] Show AVIF thumbnails
+- [ ] Show AVIFS thumbnails
+- [ ] Show BMP thumbnails
+- [ ] Show DMP thumbnails
+- [ ] Show GIF thumbnails
+- [ ] Show HEIC thumbnails
+- [ ] Show HEICS thumbnails
+- [ ] Show HEIF thumbnails
+- [ ] Show HEIFS thumbnails
+- [ ] Show JPG thumbnails
+- [ ] Show JPEG thumbnails
+- [ ] Show JPE thumbnails
+- [ ] Show JIF thumbnails
+- [ ] Show JP2 thumbnails
+- [ ] Show NetP thumbnails
+- [ ] Show PNG thumbnails
+- [ ] Show TIF thumbnails
+- [ ] Show TIFF thumbnails
+- [ ] Show WebP thumbnails
