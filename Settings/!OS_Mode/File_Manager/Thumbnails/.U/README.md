@@ -1,0 +1,2 @@
+U
+- [ ] Show .uno thumbnails
