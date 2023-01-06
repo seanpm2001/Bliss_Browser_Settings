@@ -1,0 +1,47 @@
+Bliss file manager video preview settings
+
+- [ ] PNG preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Show GIF previews
+- [ ] GIF preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of GIF video files upon hovering
+- [ ] Video preview GIF duration: {x} seconds
+- [ ] Show MP4 previews
+- [ ] MP4 preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of MP4 video files upon hovering
+- [ ] Video preview MP4 duration: {x} seconds
+- [ ] Show MKV previews
+- [ ] MKV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of MKV video files upon hovering
+- [ ] Video preview MKV duration: {x} seconds
+- [ ] Show MOV previews
+- [ ] MOV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of MOV video files upon hovering
+- [ ] Video preview MOV duration: {x} seconds
+- [ ] Show AVI previews
+- [ ] AVI preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of AVI video files upon hovering
+- [ ] Video preview AVI duration: {x} seconds
+- [ ] Show 3GP previews
+- [ ] 3GP preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of 3GP video files upon hovering
+- [ ] Video preview 3GP duration: {x} seconds
+- [ ] Show OGV previews
+- [ ] OGV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of OGV video files upon hovering
+- [ ] Video preview OGV duration: {x} seconds
+- [ ] Show GIFV previews
+- [ ] GIFV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of GIFV video files upon hovering
+- [ ] Video preview GIFV duration: {x} seconds
+- [ ] Show WMV previews
+- [ ] WMV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of WMV video files upon hovering
+- [ ] Video preview WMV duration: {x} seconds
+- [ ] Show NetV previews
+- [ ] NetV preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of NetV video files upon hovering
+- [ ] Video preview NetV duration: {x} seconds
+- [ ] Show WebM previews
+- [ ] WebM preview limit: {x} bytes [calculate into kilobytes] [calculate into kibibytes] [calculate into megabytes] [calculate into mebibytes] [calculate into gigabytes] [calculte into gibibytes] [calculate into terabytes] [calculate into tebibytes]
+- [ ] Play a preview of WebM video files upon hovering
+- [ ] Video preview WebM duration: {x} seconds
