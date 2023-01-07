@@ -1,0 +1,252 @@
+A
+
+APNG
+
+- [ ] Save APNG files by default
+- [ ] Open APNG files by default
+- [ ] Ignore APNG files by default
+- [ ] Save file with all capital letters
+- [ ] Save as APNG
+- [ ] Open as APNG
+- [ ] Save as PNG
+- [ ] Open as PNG
+- [ ] Save as GIF
+- [ ] Open as GIF
+
+AIFF
+
+- [ ] Allow audio controls by default
+- [ ] Stop on first bit by default
+- [ ] Stop on last bit by default
+- [ ] Loop by default
+- [ ] Autoplay by default
+- [ ] Allow subtitles by default
+- {0} Default pitch (in semitones)
+- [ ] Save file with all capital letters
+- [ ] Save as AIFF
+- [ ] Open as AIFF
+- [ ] Save as WAV
+- [ ] Open as WAV
+- [ ] Save as M4A
+- [ ] Open as M4A
+- [ ] Save as OGA
+- [ ] Open as OGA
+- [ ] Save as OGG
+- [ ] Open as OGG
+- [ ] Save as FLAC
+- [ ] Open as FLAC
+- [ ] Save as MP3
+- [ ] Open as MP3
+
+AVCI
+
+- [ ] Save AVCI files by default
+- [ ] Open AVCI files by default
+- [ ] Ignore AVCI files by default
+- [ ] Save file with all capital letters
+- [ ] Save as AVCI
+- [ ] Open as AVCI
+- [ ] Save as HEICS
+- [ ] Open as HEICS
+- [ ] Save as HEIC
+- [ ] Open as HEIC
+- [ ] Save as HEIFS
+- [ ] Open as HEIFS
+- [ ] Save as HEIF
+- [ ] Open as HEIF
+- [ ] Save as AVCS
+- [ ] Open as AVCS
+- [ ] Save as AVIF
+- [ ] Open as AVIF
+- [ ] Save as AVIFS
+- [ ] Open as AVIFS
+- [ ] Save as JPG
+- [ ] Open as JPG
+- [ ] Save as JPEG
+- [ ] Open as JPEG
+- [ ] Save as JFIF
+- [ ] Open as JFIF
+- [ ] Save as JP2
+- [ ] Open as JP2
+- [ ] Save as JIF
+- [ ] Open as JIF
+- [ ] Save as JPE
+- [ ] Open as JPE
+- [ ] Save as BMP
+- [ ] Open as BMP
+- [ ] Save as DIB
+- [ ] Open as DIB
+- [ ] Save as PNG
+- [ ] Open as PNG
+- [ ] Save as GIF
+- [ ] Open as GIF
+- [ ] Save as NetP
+- [ ] Open as NetP
+- [ ] Save as WebP
+- [ ] Open as WebP
+
+AVCS
+
+- [ ] Save AVCS files by default
+- [ ] Open AVCS files by default
+- [ ] Ignore AVCS files by default
+- [ ] Save file with all capital letters
+- [ ] Save as AVCS
+- [ ] Open as AVCS
+- [ ] Save as AVCI
+- [ ] Open as AVCI
+- [ ] Save as HEICS
+- [ ] Open as HEICS
+- [ ] Save as HEIC
+- [ ] Open as HEIC
+- [ ] Save as HEIFS
+- [ ] Open as HEIFS
+- [ ] Save as HEIF
+- [ ] Open as HEIF
+- [ ] Save as AVIF
+- [ ] Open as AVIF
+- [ ] Save as AVIFS
+- [ ] Open as AVIFS
+- [ ] Save as JPG
+- [ ] Open as JPG
+- [ ] Save as JPEG
+- [ ] Open as JPEG
+- [ ] Save as JFIF
+- [ ] Open as JFIF
+- [ ] Save as JP2
+- [ ] Open as JP2
+- [ ] Save as JIF
+- [ ] Open as JIF
+- [ ] Save as JPE
+- [ ] Open as JPE
+- [ ] Save as BMP
+- [ ] Open as BMP
+- [ ] Save as DIB
+- [ ] Open as DIB
+- [ ] Save as PNG
+- [ ] Open as PNG
+- [ ] Save as GIF
+- [ ] Open as GIF
+- [ ] Save as NetP
+- [ ] Open as NetP
+- [ ] Save as WebP
+- [ ] Open as WebP
+
+AVIF
+
+- [ ] Save AVIF files by default
+- [ ] Open AVIF files by default
+- [ ] Ignore AVIF files by default
+- [ ] Save file with all capital letters
+- [ ] Save as AVIF
+- [ ] Open as AVIF
+- [ ] Save as AVCS
+- [ ] Open as AVCS
+- [ ] Save as AVCI
+- [ ] Open as AVCI
+- [ ] Save as HEICS
+- [ ] Open as HEICS
+- [ ] Save as HEIC
+- [ ] Open as HEIC
+- [ ] Save as HEIFS
+- [ ] Open as HEIFS
+- [ ] Save as HEIF
+- [ ] Open as HEIF
+- [ ] Save as AVIFS
+- [ ] Open as AVIFS
+- [ ] Save as JPG
+- [ ] Open as JPG
+- [ ] Save as JPEG
+- [ ] Open as JPEG
+- [ ] Save as JFIF
+- [ ] Open as JFIF
+- [ ] Save as JP2
+- [ ] Open as JP2
+- [ ] Save as JIF
+- [ ] Open as JIF
+- [ ] Save as JPE
+- [ ] Open as JPE
+- [ ] Save as BMP
+- [ ] Open as BMP
+- [ ] Save as DIB
+- [ ] Open as DIB
+- [ ] Save as PNG
+- [ ] Open as PNG
+- [ ] Save as GIF
+- [ ] Open as GIF
+- [ ] Save as NetP
+- [ ] Open as NetP
+- [ ] Save as WebP
+- [ ] Open as WebP
+
+AVIFS
+
+- [ ] Save AVIFS files by default
+- [ ] Open AVIFS files by default
+- [ ] Ignore AVIFS files by default
+- [ ] Save file with all capital letters
+- [ ] Save as AVIFS
+- [ ] Open as AVIFS
+- [ ] Save as AVCS
+- [ ] Open as AVCS
+- [ ] Save as AVCI
+- [ ] Open as AVCI
+- [ ] Save as HEICS
+- [ ] Open as HEICS
+- [ ] Save as HEIC
+- [ ] Open as HEIC
+- [ ] Save as HEIFS
+- [ ] Open as HEIFS
+- [ ] Save as HEIF
+- [ ] Open as HEIF
+- [ ] Save as AVIF
+- [ ] Open as AVIF
+- [ ] Save as JPG
+- [ ] Open as JPG
+- [ ] Save as JPEG
+- [ ] Open as JPEG
+- [ ] Save as JFIF
+- [ ] Open as JFIF
+- [ ] Save as JP2
+- [ ] Open as JP2
+- [ ] Save as JIF
+- [ ] Open as JIF
+- [ ] Save as JPE
+- [ ] Open as JPE
+- [ ] Save as BMP
+- [ ] Open as BMP
+- [ ] Save as DIB
+- [ ] Open as DIB
+- [ ] Save as PNG
+- [ ] Open as PNG
+- [ ] Save as GIF
+- [ ] Open as GIF
+- [ ] Save as NetP
+- [ ] Open as NetP
+- [ ] Save as WebP
+- [ ] Open as WebP
+
+AVI
+
+- [ ] Allow video controls by default
+- [ ] Stop on first frame by default
+- [ ] Stop on last frame by default
+- [ ] Loop by default
+- [ ] Allow audio by default
+- [ ] Play as audio only by default
+- [ ] Allow subtitles by default
+- [ ] Save file with all capital letters
+- [ ] Save as AVI
+- [ ] Open as AVI
+- [ ] Save as MKV
+- [ ] Open as MKV
+- [ ] Save as GIFV
+- [ ] Open as GIFV
+- [ ] Save as MP4
+- [ ] Open as MP4
+- [ ] Save as MOV
+- [ ] Open as MOV
+- [ ] Save as NetV
+- [ ] Open as NetV
+- [ ] Save as WebM
+- [ ] Open as WebM
