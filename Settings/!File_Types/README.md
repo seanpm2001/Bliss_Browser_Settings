@@ -57,12 +57,32 @@
 
 **TODO:**
 
+> General
+
 * Add all image file options to each image format in alphabetical order
 * Add all video file options to each video format in alphabetical order
 * Add all audio file options to each video format in alphabetical order
 
+> All File types
+
+* Open with Bliss Browser
+* Open with VLC Media Player/Other media player
+* Open with another program
+
+> Make group categories
+
+1. Documents
+2. Videos
+3. Audio
+4. Images
+5. Disk images
+6. Packages
+7. Configuration
+8. Archives
+9. Etc.
+
 ***
 
-**File version:** `1 (2023, Friday, January 6th at 7:22 pm PST)`
+**File version:** `2 (2023, Friday, January 6th at 8:09 pm PST)`
 
 ***
